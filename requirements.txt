@@ -1,2 +1,13 @@
 streamlit
 pandas
+plotly
+matplotlib
+seaborn
+pyjstat
+ecbdata
+fredapi
+fake_useragent
+scipy
+hmmlearn
+lxml
+xlsxwriter
